@@ -33,8 +33,9 @@ The list is periodically updated with new links. Click "Watch" in the right top 
 
 ## Users
 
-A list of dapps and companies interested in integrating fully decentralised subscription mechanisms.
+A list of dapps and companies which integrated or are interested in enabling decentralised subscription mechanisms.
 
+* [ETHGrants](https://ethgrants.com) - Recurring Ethereum funding via token subscriptions.
 * [Gitcoin](https://gitcoin.co) - Bounty platform for open source work.
 * [Shopify](https://www.shopify.com/bitcoin) - Ecommerce platform. Future dApp.
 * [StakeTree](https://staketree.com/) - Decentralised Patreon.
