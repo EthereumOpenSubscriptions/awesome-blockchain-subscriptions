@@ -19,7 +19,7 @@ The list is periodically updated with new links. Click "Watch" in the right top 
 * [8x](https://github.com/8xprotocol/monorepo) - Enables decentralised recurring payments on the Ethereum blockchain.
 * [Groundhog](https://groundhog.network/) - Friction-free subscription payments for consumers and merchants.
 * [TokenSubscriptions](https://github.com/austintgriffith/tokensubscription.com) - WyoHackathon 2018 winner. Set-it-and-forget-it token subscriptions on the Ethereum mainnet.
-* [Chronos](http://chronosprotocol.org/chronos-white-paper.pdf) - An open protocol for streaming money, taking subscriptions down to the minute or second.
+* [Chronos Protocol](http://chronosprotocol.org/chronos-white-paper.pdf) - Facilitates continuous payments by adding a new, time-based dimension to money , taking subscriptions down to the minute or second.
 * [Lab10 Streems](https://github.com/lab10-coop/streem-poc) - Proof of concept on time-based payments.
 * [BitShares](https://bitshares.org/technology/recurring-and-scheduled-payments/) - Smart contract platform with built-in support for recurring payments and subscription payments. 
 * [PumaPay](https://github.com/pumapayio/puma-poc) - An advanced billing infrastructure for Merchants.
@@ -30,6 +30,7 @@ The list is periodically updated with new links. Click "Watch" in the right top 
 * [ERC-948](https://github.com/ethereum/EIPs/issues/948) - First discussion on adding subscriptions on Ethereum.
 * [EIP-1337](https://github.com/ethereum/EIPs/pull/1337) - Subscriptions format proposed by [Gitcoin](https://gitcoin.co).
 * [Ethereum Subscriptions Standards](https://github.com/EthereumOpenSubscriptions/standard) - A set of proposed standards built on Ethereum.
+* [Gitcoin's Slack](https://gitcoin.co/slack) - Come join the #proj-subscriptions channel
 
 ## Users
 
@@ -37,8 +38,8 @@ A list of dapps and companies which integrated or are interested in enabling dec
 
 * [ETHGrants](https://ethgrants.com) - Recurring Ethereum funding via token subscriptions.
 * [Gitcoin](https://gitcoin.co) - Bounty platform for open source work.
-* [Shopify](https://www.shopify.com/bitcoin) - Ecommerce platform. Future dApp.
 * [StakeTree](https://staketree.com/) - Decentralised Patreon.
+* [Shopify](https://www.shopify.com/bitcoin) - Ecommerce platform. Future dApp.
 * [Wix](https://www.wix.com/) - Dead simple website creator. Future dApp.
 
 ## Other
