@@ -16,14 +16,13 @@ The list is periodically updated with new links. Click "Watch" in the right top 
 
 ## Projects
 
+* [TokenSubscriptions](https://github.com/austintgriffith/tokensubscription.com) - WyoHackathon 2018 winner. Set-it-and-forget-it token subscriptions on the Ethereum mainnet.
 * [8x](https://github.com/8xprotocol/monorepo) - Enables decentralised recurring payments on the Ethereum blockchain.
 * [Groundhog](https://groundhog.network/) - Friction-free subscription payments for consumers and merchants.
-* [TokenSubscriptions](https://github.com/austintgriffith/tokensubscription.com) - WyoHackathon 2018 winner. Set-it-and-forget-it token subscriptions on the Ethereum mainnet.
-* [Chronos Protocol](http://chronosprotocol.org/chronos-white-paper.pdf) - Facilitates continuous payments by adding a new, time-based dimension to money , taking subscriptions down to the minute or second.
+* [Chronos Protocol](https://chronosprotocol.org/chronos-white-paper.pdf) - Facilitates continuous payments by adding a new, time-based dimension to money, taking subscriptions down to the minute or second.
 * [Lab10 Streems](https://github.com/lab10-coop/streem-poc) - Proof of concept on time-based payments.
-* [BitShares](https://bitshares.org/technology/recurring-and-scheduled-payments/) - Smart contract platform with built-in support for recurring payments and subscription payments. 
+* [BitShares](https://bitshares.org/technology/recurring-scheduled-payments) - Smart contract platform with built-in support for recurring payments and subscription payments.
 * [PumaPay](https://github.com/pumapayio/puma-poc) - An advanced billing infrastructure for Merchants.
-
 
 ## Discussions
 
@@ -36,9 +35,8 @@ The list is periodically updated with new links. Click "Watch" in the right top 
 
 A list of dapps and companies which integrated or are interested in enabling decentralised subscription mechanisms.
 
+* [Gitcoin Grants](https://gitcoin.co/grants/) - Projects funded through monthly pledges.
 * [ETHGrants](https://ethgrants.com) - Recurring Ethereum funding via token subscriptions.
-* [Gitcoin](https://gitcoin.co) - Bounty platform for open source work.
-* [StakeTree](https://staketree.com/) - Decentralised Patreon.
 * [Shopify](https://www.shopify.com/bitcoin) - Ecommerce platform. Future dApp.
 * [Wix](https://www.wix.com/) - Dead simple website creator. Future dApp.
 
